@@ -1,0 +1,28 @@
+C:\Users\resid\source\repos\ProgramingLanguageYear\ProgramingLanguageYear\bin\Debug\netcoreapp3.1\ProgramingLanguageYear.exe
+C:\Users\resid\source\repos\ProgramingLanguageYear\ProgramingLanguageYear\bin\Debug\netcoreapp3.1\ProgramingLanguageYear.deps.json
+C:\Users\resid\source\repos\ProgramingLanguageYear\ProgramingLanguageYear\bin\Debug\netcoreapp3.1\ProgramingLanguageYear.runtimeconfig.json
+C:\Users\resid\source\repos\ProgramingLanguageYear\ProgramingLanguageYear\bin\Debug\netcoreapp3.1\ProgramingLanguageYear.runtimeconfig.dev.json
+C:\Users\resid\source\repos\ProgramingLanguageYear\ProgramingLanguageYear\bin\Debug\netcoreapp3.1\ProgramingLanguageYear.dll
+C:\Users\resid\source\repos\ProgramingLanguageYear\ProgramingLanguageYear\bin\Debug\netcoreapp3.1\ProgramingLanguageYear.pdb
+C:\Users\resid\source\repos\ProgramingLanguageYear\ProgramingLanguageYear\obj\Debug\netcoreapp3.1\ProgramingLanguageYear.csproj.AssemblyReference.cache
+C:\Users\resid\source\repos\ProgramingLanguageYear\ProgramingLanguageYear\obj\Debug\netcoreapp3.1\ProgramingLanguageYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resid\source\repos\ProgramingLanguageYear\ProgramingLanguageYear\obj\Debug\netcoreapp3.1\ProgramingLanguageYear.AssemblyInfoInputs.cache
+C:\Users\resid\source\repos\ProgramingLanguageYear\ProgramingLanguageYear\obj\Debug\netcoreapp3.1\ProgramingLanguageYear.AssemblyInfo.cs
+C:\Users\resid\source\repos\ProgramingLanguageYear\ProgramingLanguageYear\obj\Debug\netcoreapp3.1\ProgramingLanguageYear.csproj.CoreCompileInputs.cache
+C:\Users\resid\source\repos\ProgramingLanguageYear\ProgramingLanguageYear\obj\Debug\netcoreapp3.1\ProgramingLanguageYear.dll
+C:\Users\resid\source\repos\ProgramingLanguageYear\ProgramingLanguageYear\obj\Debug\netcoreapp3.1\ProgramingLanguageYear.pdb
+C:\Users\resid\source\repos\ProgramingLanguageYear\ProgramingLanguageYear\obj\Debug\netcoreapp3.1\ProgramingLanguageYear.genruntimeconfig.cache
+C:\Users\resid\Desktop\Generics, Collection taskss\ProgramingLanguageYear\ProgramingLanguageYear\bin\Debug\netcoreapp3.1\ProgramingLanguageYear.exe
+C:\Users\resid\Desktop\Generics, Collection taskss\ProgramingLanguageYear\ProgramingLanguageYear\bin\Debug\netcoreapp3.1\ProgramingLanguageYear.deps.json
+C:\Users\resid\Desktop\Generics, Collection taskss\ProgramingLanguageYear\ProgramingLanguageYear\bin\Debug\netcoreapp3.1\ProgramingLanguageYear.runtimeconfig.json
+C:\Users\resid\Desktop\Generics, Collection taskss\ProgramingLanguageYear\ProgramingLanguageYear\bin\Debug\netcoreapp3.1\ProgramingLanguageYear.runtimeconfig.dev.json
+C:\Users\resid\Desktop\Generics, Collection taskss\ProgramingLanguageYear\ProgramingLanguageYear\bin\Debug\netcoreapp3.1\ProgramingLanguageYear.dll
+C:\Users\resid\Desktop\Generics, Collection taskss\ProgramingLanguageYear\ProgramingLanguageYear\bin\Debug\netcoreapp3.1\ProgramingLanguageYear.pdb
+C:\Users\resid\Desktop\Generics, Collection taskss\ProgramingLanguageYear\ProgramingLanguageYear\obj\Debug\netcoreapp3.1\ProgramingLanguageYear.csproj.AssemblyReference.cache
+C:\Users\resid\Desktop\Generics, Collection taskss\ProgramingLanguageYear\ProgramingLanguageYear\obj\Debug\netcoreapp3.1\ProgramingLanguageYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resid\Desktop\Generics, Collection taskss\ProgramingLanguageYear\ProgramingLanguageYear\obj\Debug\netcoreapp3.1\ProgramingLanguageYear.AssemblyInfoInputs.cache
+C:\Users\resid\Desktop\Generics, Collection taskss\ProgramingLanguageYear\ProgramingLanguageYear\obj\Debug\netcoreapp3.1\ProgramingLanguageYear.AssemblyInfo.cs
+C:\Users\resid\Desktop\Generics, Collection taskss\ProgramingLanguageYear\ProgramingLanguageYear\obj\Debug\netcoreapp3.1\ProgramingLanguageYear.csproj.CoreCompileInputs.cache
+C:\Users\resid\Desktop\Generics, Collection taskss\ProgramingLanguageYear\ProgramingLanguageYear\obj\Debug\netcoreapp3.1\ProgramingLanguageYear.dll
+C:\Users\resid\Desktop\Generics, Collection taskss\ProgramingLanguageYear\ProgramingLanguageYear\obj\Debug\netcoreapp3.1\ProgramingLanguageYear.pdb
+C:\Users\resid\Desktop\Generics, Collection taskss\ProgramingLanguageYear\ProgramingLanguageYear\obj\Debug\netcoreapp3.1\ProgramingLanguageYear.genruntimeconfig.cache
